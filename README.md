@@ -13,9 +13,9 @@ Key Findings
 The most profitable products based on total sales are:
 
 Rank	Product Name	Total Sales ($)
-1️.	Dorito Corn Chp Supreme 380g	40,352.0
-2️.	Smiths Crnkle Chip Orgnl Big Bag 380g	36,367.6
-3️.	Smiths Crinkle Chips Salt & Vinegar 330g	34,804.2
+1️. Dorito Corn Chp Supreme 380g	40,352.0
+2️. Smiths Crnkle Chip Orgnl Big Bag 380g	36,367.6
+3️. Smiths Crinkle Chips Salt & Vinegar 330g	34,804.2
 Insights:
 Large Pack Sizes Dominate → Customers prefer bulk packs over smaller ones.
 Brand Loyalty Exists → Doritos and Smiths are strong market leaders.
